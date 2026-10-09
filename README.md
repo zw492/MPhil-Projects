@@ -3,7 +3,7 @@
 ## Numerical Methods and Computational Fluid Dynamics
 
 - [PVC — Pressure-Velocity Coupling](https://github.com/zw492/PVC)  
-  Pressure-Velocity Coupling: SIMPLE-Based Steady-State Solver. Adviser: Hrvoje Jasak.
+  Pressure-Velocity Coupling: SIMPLE-Based Steady-State Solver. Advisor: Hrvoje Jasak.
 
 - [ADER — One-Dimensional Euler Equations](https://github.com/zw492/ADER)  
   The ADER approach for the one-dimensional Euler equations. Advisor: Riccardo Demattè.
